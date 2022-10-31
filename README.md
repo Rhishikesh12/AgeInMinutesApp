@@ -4,7 +4,7 @@ The intension behind building this app to learn about :
 1) Linear Layout
 2) TextViews
 3) Button
-4) DatePicker & Calender
+4) DatePicker Dialog & Calender
 
 <b>Here are some ScreenShots of App:</b>
 
