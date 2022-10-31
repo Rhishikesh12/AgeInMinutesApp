@@ -6,7 +6,7 @@ The intension behind building this app to learn about :
 3) Button
 4) DatePicker & Calender
 
-Here are some ScreenShots of App:
+<b>Here are some ScreenShots of App:</b>
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/72931748/198966221-5ab58526-c7b0-4c8a-8960-02957731e1ca.png" width="200" height="400"/>
