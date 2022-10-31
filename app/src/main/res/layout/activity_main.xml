@@ -68,6 +68,7 @@
         android:textColor="@color/Orange" />
 
     <TextView
+        android:id="@+id/AgeInMinutes"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="1400000000"
