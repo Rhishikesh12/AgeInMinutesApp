@@ -9,9 +9,9 @@ The intension behind building this app to learn about :
 Here are some ScreenShots of App:
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/72931748/198898558-7c3eda34-c815-4ce3-8c1d-29d7a4104ff1.png" width="200" height="400" />
+  <img src="https://user-images.githubusercontent.com/72931748/198966221-5ab58526-c7b0-4c8a-8960-02957731e1ca.png" width="200" height="400"/>
   
-  <img src="https://user-images.githubusercontent.com/72931748/198898566-bccc9d4b-0f10-48f4-ba61-9d764260b16a.png" width="200" height="400" />
+  <img src="https://user-images.githubusercontent.com/72931748/198966092-ce88e460-eb7f-4a9a-8255-6cc229d05534.png" width="200" height="400"/>
 </p>
 
 
